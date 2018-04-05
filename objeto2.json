@@ -1,0 +1,13 @@
+{
+		"id": 2,
+		"tipo": 1,
+		"nome": "LIVRO DE MAGIA",
+		"descricao": "Livro de estudo bruxo, contem varias magias e feitiços que podem ser aprendidos por alunos de Hogwarts, e com isso ganhar conhecimento.",
+		"resultado_positivo": "Agora você pode aprender novas magias e feitiços.",
+		"resultado_negativo": "",
+		"comando_correto": "get LIVRO; use LIVRO",
+		"cena_alvo": 3,
+		"resolvido": 1,
+		"obtido": 1 	
+	
+	}
