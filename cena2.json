@@ -3,5 +3,5 @@
 		"id": 2,
 		"titulo": "Beco Diagonal",
 		"descricao": "Dentro do beco há uma variedade de restaurantes, lojas e outras atrações. Todos os itens da lista de Hogwarts podem ser comprados no Beco Diagonal, abro minha lista de materiais, percebo que preciso comprar um LIVRO, uma VARINHA e pegar um presente de aniversario que o Hagrid comprou para mim, perconrendo os olhos pela rua avisto algumas lojas que podem me ajudar nas compras, uma livraria FLOREIROS E BORRÇOES, uma loja chamada ANIMAIS MAGICOS, a LOJA DE VARINHAS OLIVARAS e o EMPORIO DE CORUJAS.",
-		"itens":["LIVRO", "VARINHA", "CORUJA", "TICKET"]
+		"itens":[2, 3, 4, 5]
 	}

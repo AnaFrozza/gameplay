@@ -5,7 +5,7 @@
 		"descricao": "Carta de admição em HOGWARTS, acompanha a lista de materias de HOGWARTS.",
 		"resultado_positivo": "Temos o prazer de informar que Vossa Senhoria tem uma vaga na Escola de Magia e Bruxaria de Hogwarts.",
 		"resultado_negativo": "",
-		"comando_correto": "get CARTA",
+		"comando_correto": ["get CARTA"],
 		"cena_alvo": 2,
 		"resolvido": 1,
 		"obtido": 1 	
